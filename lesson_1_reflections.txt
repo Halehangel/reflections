@@ -1,0 +1,1 @@
+We create a repository as a base unit to store version of our code in it, and track it by using commits.

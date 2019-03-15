@@ -2,3 +2,4 @@ You can make changes only to the files that need to be changed and add them with
 I may include only the files affected by the logical change in each commit.
 -eMakes it easier to keep track of all the changes
 We merge the changes of the code in a particular algorithms. We merge it by adding a commit that can be reached through at least two paths.
+Good things are that by automating the merges git saves you a lot of time and time is money. Sometimes you could even bring in more harm by doing it manually. The baddest thing of is that it might make your code unworking - perhaps in a pretty rare case.

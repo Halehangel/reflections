@@ -1,1 +1,2 @@
-Just another reflections file.
+When would you want to use a remote repository rather than keeping all your work local?
+Whenever I'm collaborating with other people and perhaps whenever I want to store a project.

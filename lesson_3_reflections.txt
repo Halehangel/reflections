@@ -7,3 +7,5 @@ What is the benefit of having a copy of the last known state of the remote store
 You could easily make the difference between the product code and your code, which could prevent future merge conflicts.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It would be an easier alternative to have the files in a simple cloud storage provided by someone. A harder solution would be using diskettes.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+ Well of course I would make a separate branch when working on a new feature as previously mentioned and work directly into master whenever I have to update documentation or fix bugs or something similar to that. The first prevents you from breaking already working things and actually it let's a lot of people work simultaneously. And as for the second one, well it let's you have a straight forward approach when fixing bugs.
